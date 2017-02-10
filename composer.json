@@ -1,0 +1,20 @@
+{
+    "name": "sunuoge/first",
+    "type": "library",
+    "description": "sunuoge composer test",
+    "keywords": ["sunuoge", "composer", "test"],
+    "homepage": "http://www.sunuoge.com",
+    "license": "sunuoge_first",
+    "authors": [
+        {
+            "name": "sunuoge",
+            "homepage": "https://github.com/sunuoge"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "first\\": "lib/" }
+    }
+}
