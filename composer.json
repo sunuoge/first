@@ -4,7 +4,7 @@
     "description": "sunuoge composer test",
     "keywords": ["sunuoge", "composer", "test"],
     "homepage": "http://www.sunuoge.com",
-    "license": "sunuoge_first",
+    "license": "sunuoge",
     "authors": [
         {
             "name": "sunuoge",
