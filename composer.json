@@ -16,5 +16,11 @@
     },
     "autoload": {
         "psr-0": { "first\\": "lib/" }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
     }
 }
