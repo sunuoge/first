@@ -6,6 +6,6 @@ class deal
 
     function p()
     {
-        echo 'sunuoge-first-deal';
+        echo 'sunuoge-first-deal ';
     }
 }
